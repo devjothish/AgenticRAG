@@ -131,24 +131,6 @@ print(response2)
 
 ---
 
-## 🤝 Contributing  
-
-Want to improve **Agentic RAG**? Contributions are welcome!  
-
-- **Fork the repo**  
-- **Create an issue**  
-- **Submit a PR**  
-
-Let’s make **Agentic RAG even smarter**! 🚀  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-
----
-
 ## 📞 Contact  
 
 👨‍💻 **Jothiswaran Arumugam**  
